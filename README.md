@@ -7,3 +7,6 @@ bash <(curl  -Ls https://raw.githubusercontent.com/heyh-bit/scripts/refs/heads/m
 
 ## Git 安装命令
 bash <(curl -Ls https://raw.githubusercontent.com/heyh-bit/scripts/refs/heads/main/git-install.sh)
+
+## Docker 安装命令
+bash <(curl -Ls https://raw.githubusercontent.com/heyh-bit/scripts/refs/heads/main/docker-install.sh)
